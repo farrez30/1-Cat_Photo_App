@@ -1,2 +1,5 @@
 # 1-Cat_Photo_App
- learning basic web responsive design
+
+learning basic web responsive design
+
+Using some HTML tags to add photos, buttons, and other elements to a webpage.
